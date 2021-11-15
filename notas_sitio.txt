@@ -1,0 +1,15 @@
+Notas academic template
+
+- https://wowchemy.com/hugo-themes/, elegir template (clasic academic resumé)
+- > start with academic resume
+- va a Netlify, pide autorización a cuenta Github. Asumo que se requiere también cuenta Netlify abierta antes
+- se realiza deploy en Netlify automáticamente, se crea repo starter-hugo-academic
+- llegan correos informando
+- clonar a local, abrir con archigo Rproj
+- en Rstudio no se activa pestaña build (?) y no funciona con blogdown::build_site(). Solución: ir a carpeta config/default y copiar config.yaml en root. Luego blogdown::build_site() y después blogdown::serve_site(). Ahí renderiza
+
+Pasos:
+- borrar widget inicial sobre el theme -> content / home / default
+- luego content > authors > admin, y modificadr el _index.md para el widget de about. Para la imagen, reemplazar la de avatar de la sub-carpeta media aquí mismo
+- luego eliminar los widgets innecesarios, luego se pueden recuperar en la web o de la carpeta example site
+- favicon: guardar en assets/media/icon.png
