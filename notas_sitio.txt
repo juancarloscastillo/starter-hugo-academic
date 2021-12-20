@@ -13,3 +13,4 @@ Pasos:
 - luego content > authors > admin, y modificadr el _index.md para el widget de about. Para la imagen, reemplazar la de avatar de la sub-carpeta media aquí mismo
 - luego eliminar los widgets innecesarios, luego se pueden recuperar en la web o de la carpeta example site
 - favicon: guardar en assets/media/icon.png
+- background widgets; se especifican en los archivos que están en content/home. Para ejemplo ver about.md

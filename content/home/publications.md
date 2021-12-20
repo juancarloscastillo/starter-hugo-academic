@@ -7,13 +7,11 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 40
 
-title: Recent Publications
-subtitle: ''
+title: Publicaciones recientes
 
-content:
-  # Page type to display. E.g. post, talk, publication...
+content:  # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
   count: 5
@@ -34,9 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}

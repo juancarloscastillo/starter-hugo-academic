@@ -1,0 +1,42 @@
+---
+title: "COES "
+subtitle: Centro de Estudios de Conflicto y Cohesión Social
+summary: "El Centro de Estudios de Conflicto y Cohesión Social (COES) es financiado por el programa FONDAP de ANID y  desarrolla investigación colaborativa en temas relacionados al conflicto social y la cohesión en Chile, por medio de un equipo multidisciplinario proveniente de las ciencias sociales y humanidades. "
+tags:
+- FONDAP
+- ANID
+date: "2023-03-31T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+# Resumen
+
+El [Centro de Estudios de Conflicto y Cohesión Social (COES)](https://coes.cl/) es financiado por el programa FONDAP de ANID y  desarrolla investigación colaborativa en temas relacionados al conflicto social y la cohesión en Chile, por medio de un equipo multidisciplinario proveniente de las ciencias sociales y humanidades. COES centra sus actividades académicas y de difusión en el análisis de las múltiples manifestaciones del conflicto social en Chile, sus causas así como también su contexto cultural e histórico.
+
+En la primera etapa de este centro (1013-2018) fui subdirector, y en la segunda (2019-2023) Investigador principal de la línea [Interacciones Grupales e Individuales](https://coes.cl/interacciones-grupales-e-individuales/), que contribuye al análisis y comprensión de los conflictos sociales y la cohesión en Chile mediante la integración de las dimensiones interpersonal e intergrupal al contexto macrosocial.
+
+El Centro está patrocinado por la Universidad de Chile y la Pontificia Universidad Católica de Chile, y como instituciones asociadas se encuentran la Universidad Diego Portales y la Universidad Adolfo Ibáñez.
+
+Mayor información en [coes.cl](https://coes.cl/)

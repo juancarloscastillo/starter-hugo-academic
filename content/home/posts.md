@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
-title: Recent Posts
+title: Posts Recientes
 subtitle:
 
 content:

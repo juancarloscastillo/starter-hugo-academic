@@ -1,0 +1,13 @@
+---
+title: "Contacto"
+---
+
+### Horas de reunión
+
+- Inscribirse abajo para horarios de oficina Miércoles en la tarde, una vez inscrito no es necesario enviar correo ni confirmar.
+
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/juan_castillo/horasofi" style="min-width:320px;height:580px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->

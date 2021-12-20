@@ -1,0 +1,79 @@
+---
+title: "Formación Ciudadana II: Socialización política y educación para la ciudadanía - El rol de la familia y de la escuela. "
+subtitle: FONDECYT Regular (2018-2021) - Investigador Principal Cristián Cox
+summary: "Este proyecto es una segunda parte del Fondecyt de Formación Ciudadana (I), también junto a Cristián Cox (Investigador Principal) y Daniel Miranda, y se suma Camila Jara. Se desarrollauna Encuesta Panel de Formación Ciudadana (PACES), con cuestionarios a una muestra representativa de padres, docentes y estudiantes de enseñanza media"
+tags:
+- Fondecyt
+date: "2018-03-31T00:00:00Z"
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+image:
+#  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+#slides: example
+---
+# Resumen
+
+La investigación propuesta hará intenso uso del conocimiento secundario existente sobre educación ciudadana que realiza la escolaridad en Chile, aprovechando las bases de datos de los estudios internacionales de formación ciudadana CIVED-2000, ICCS-2009, ICCS-2016, y las de la Agencia para la Calidad de 2017, (‘Estudio Ciudadanía Agencia 2017’). Al mismo tiempo llevará cabo una Encuesta de Formación Ciudadana 2020, con cuestionarios a una muestra representativa de padres, docentes y estudiantes de 4to medio (app. 1000 estudiantes y sus padres); y un estudio cualitativo de los procesos y relaciones formativas de capacidades ciudadanas en Cuartos Medios. La encuesta y el estudio cualitativo tendrán como eje la implementación de la Ley de Formación Ciudadana y la consiguiente creación de la asignatura de Formación Ciudadana, que comenzará el año 2019 en enseñanza media. De esta manera, la disponibilidad de información aún no explotada y la contingencia de la implementación de la Ley referida representan una oportunidad histórica para avanzar en la investigación de este tema en el país.
+
+OBJETIVOS.
+General:
+• Identificar aquellos aspectos al interior de la familia y de la escuela que profundizan o mitigan las desigualdades en socialización política.
+
+Específicos:
+
+- Objetivo 1: Conceptualizar las dimensiones relevantes para el ejercicio de la ciudadanía juvenil.
+- Objetivo 2: Describir la evolución temporal de las dimensiones del ejercicio de la ciudadanía juvenil.
+- Objetivo 3: Identificar y describir los mecanismos de socialización política familiar.
+- Objetivo 4: Evaluar el rol mitigador/compensador de la escuela respecto de los procesos de
+socialización familiar.
+- Objetivo 5: Describir las prácticas de socialización política que provee la experiencia escolar, con foco
+en la nueva asignatura de cívica, el rol de las creencias políticas de los docentes, y las experiencias
+de empoderamiento y movilización estudiantil.
+
+
+
+
+# Documentos
+
+- [Formulación propuesta](formulacion-ciudadania2.pdf)
+
+
+# Equipo
+
+**Investigador principal** : Cristián Cox (Facultad Educación Universidad Católica).
+
+**Coinvestigadores**
+
+- Juan Carlos Castillo
+- Daniel Miranda, Psicología UC
+- Camila Jara, UDP
+
+**Asistentes de investigación:**
+
+- Anaís Herrera
+- Macarena Sánchez
+- Brían Montengro
+- Francisco Meneses
+- Kevin Carrasco
+- Martín Venegas
+- Karen Tapia
+- Julio Iturra
+
+# Tesistas

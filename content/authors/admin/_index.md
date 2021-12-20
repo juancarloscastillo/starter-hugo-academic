@@ -5,23 +5,16 @@ title: Juan C. Castillo
 # Is this the primary user of the site?
 superuser: true
 
-design:
-  background:
-    image: images/scrheenshot.png
-    color: 'navy'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
-
 # Role/position/tagline
 role: Profesor Departamento de Sociología, Facultad de Ciencias Sociales
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Universidad de Chile
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mis líneas de investigación son justicia distributiva, formación ciudadana, cohesión social y ciencia abierta
+bio: Universidad de Chile <br>
+  Mis líneas de investigación son justicia distributiva, formación ciudadana, cohesión social y ciencia abierta
 
 # Interests to show in About widget
 interests:

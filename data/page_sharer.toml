@@ -7,7 +7,7 @@
   title = "Twitter"
   icon_pack = "fab"
   icon = "twitter"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "facebook"
@@ -15,15 +15,55 @@
   title = "Facebook"
   icon_pack = "fab"
   icon = "facebook"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "email"
-  url = "mailto:?subject={title}&body={url}"
+  url = "mailto:juancastillov@uchile.cl?subject={title}&body={url}"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
   enable = true
+
+[[buttons]]
+  id = "github"
+  url = "https://github.com/juancarloscastillo"
+  title = "Github"
+  icon_pack = "fab"
+  icon = "github"
+  enable = true
+
+[[buttons]]
+  id = "orcid"
+  url = "https://orcid.org/0000-0003-1265-7854"
+  title = "ORCID"
+  icon_pack = "fab"
+  icon = "orcid"
+  enable = true
+
+[[buttons]]
+  id = "osf"
+  url = "https://osf.io/jtgda/"
+  title = "OSF"
+  icon_pack = "ai"
+  icon = "osf"
+  enable = true
+
+  [[buttons]]
+    id = "researchgate"
+    url = "https://www.researchgate.net/profile/Juan-Castillo-60"
+    title = "Research Gate"
+    icon_pack = "ai"
+    icon = "researchgate"
+    enable = true
+
+  [[buttons]]
+    id = "google-scholar"
+    url = "https://scholar.google.com/citations?user=QkIdjasAAAAJ&hl=es&oi=ao"
+    title = "GoogleScholar"
+    icon_pack = "ai"
+    icon = "google-scholar"
+    enable = true
 
 [[buttons]]
   id = "linkedin"
@@ -31,7 +71,7 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "whatsapp"
@@ -39,7 +79,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +87,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "reddit"
